@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>NotificationTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 		<key>zDateMatter.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>31068A0A1ADE421500F9014A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>316731FD1ACA43AF000D0401</key>
 		<dict>
 			<key>primary</key>
